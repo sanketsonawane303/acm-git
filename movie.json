@@ -1,0 +1,8 @@
+{
+    "movies": [{
+            "name": "Chhichhore",
+            "reviews": [9.8, 9, 8, 7]
+        }
+
+    ]
+}
