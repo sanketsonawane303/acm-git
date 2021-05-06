@@ -2,6 +2,10 @@
     "movies": [{
             "name": "Chhichhore",
             "reviews": [9.8, 9, 8, 7]
+        },
+        {
+            "name": "Catch me if you can",
+            "reviews": [8.1, 4, 7]
         }
 
     ]
