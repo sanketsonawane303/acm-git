@@ -6,6 +6,10 @@
         {
             "name": "Catch me if you can",
             "reviews": [8.1, 4, 7]
+        },
+        {
+            "name": "Radhe",
+            "reviews": [-1, 1.1, 0, 10]
         }
 
     ]
